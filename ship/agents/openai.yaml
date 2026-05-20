@@ -1,0 +1,4 @@
+interface:
+  display_name: "ship"
+  short_description: "Rebase, validate, commit, push, and open a PR"
+  default_prompt: "Use $ship to prepare this branch for review."
